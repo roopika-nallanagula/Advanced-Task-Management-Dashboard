@@ -98,27 +98,27 @@ Task-Management-Dashboard/
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](taskmanagement images/dashboard.png)
 
 ### Tasks Page
 
-![Tasks](screenshots/tasks-page.png)
+![Tasks](taskmanagement images/tasks.png)
 
 ### Edit Task
 
-![Edit Task](screenshots/edit-task.png)
+![Edit Task](taskmanagement images/edit-tasks.png)
 
 ### Notifications
 
-![Notifications](screenshots/notifications.png)
+![Notifications](taskmanagement images/notifications.png)
 
 ### Analytics
 
-![Analytics](screenshots/analytics.png)
+![Analytics](taskmanagement images/analytics.png)
 
 ### Settings & Dark Mode
 
-![Settings](screenshots/settings-darkmode.png)
+![Settings](taskmanagement images/settings-darkmode.png)
 
 ---
 
